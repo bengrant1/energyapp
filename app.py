@@ -1,4 +1,4 @@
-ximport streamlit as st
+import streamlit as st
 from datetime import datetime
 import requests
 from bs4 import BeautifulSoup
